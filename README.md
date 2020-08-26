@@ -3,7 +3,9 @@
 Created Date: 26/08/2020\
 Last Updated Date: 26/08/2020
 
-> Created by team-20 in COMP90082 from UniMelb
+> Created by team-20 in COMP90082 from UniMelb\
+> Contributors: [Lingxuan](https://github.com/kongpeter), 
+
 
 
 # Introduction
