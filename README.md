@@ -42,8 +42,9 @@ In this project, the target of team 20 is to convert the collected data into ima
 14. add a take from another recording session
 15. save the recording session in the library
 
-
-
+### Out of scope
+1. Collect data of participants.
+2. Process audio files of participants.
 
 ## Use Cases (Lingxuan)
 
