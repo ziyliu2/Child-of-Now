@@ -24,6 +24,15 @@ Last Updated Date: 26/08/2020
 
 ## Use Cases (Lingxuan)
 
+* **SuD**: The mesh cloud to point system. 
+* **Actor**: 14,400 Victorians, Cameras.
+
+> Scenario 1: The cameras scan user's movement and successfully generate a 3D, high-resolution, moving holograms of the user body.
+
+> Scenario 2: The cameras scan user's movement, but fail to generate the moving holograms. Then the system will scan user again to analysis and generate moving holograms.
+
+> Scenario 3: The user is not satisfied with the exciting moving holograms, he can require the system to scan and generate a new one. 
+
 
 
 
