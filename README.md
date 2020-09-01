@@ -10,36 +10,44 @@ Last Updated Date: 26/08/2020
 
 # Introduction
 
-## Background
+## Background (Ziyue)
 
 
 
 
-## Client Goal
-
-
-
-
-
-## Motivation
-
-
-
-
-# Requirements
+## Motivation (Ziyue)
 
 
 
 
 
 
-
-# Plan 
-
+## Use Cases (Lingxuan)
 
 
 
 
 
+# Requirements (Zheng Tang)
 
-# Development Environment
+
+
+# Project Prototypes (Zheng Tang)
+
+
+
+
+
+# Project Plan (Wenkang)
+
+
+
+
+
+# Goal Models (Wenkang)
+
+
+
+
+
+# Development Environment (Martin)
