@@ -41,19 +41,20 @@ Last Updated Date: 26/08/2020
 
 
 
-# Project Prototypes (Zheng Tang)
+# Project Prototypes (Wenkang)
 
-
+In order to complete the tasks of the project, we need several different capabilities and technologies. First, we need complex algorithms to convert 2D images to 3D models. During the process, unity should be used to establish and implement the 3D models. Besides, a functional user interface should be built to facilitate the communication between users and the system.
 
 
 
 # Project Plan (Wenkang)
 
+The Child of Now is an ambitious project that has not been seen to specific data. The approximate timeline is as follows. In 2018, the concept and design of the project were presented and corresponding feasibility, development and risk assessment were implemented as well. In 2019, we had the specific project plan and the main task was the application and website development. Besides, we refined the project and communication strategy to improve the performance. Currently, we need to focus on the data gathering and processing and evaluate the results. Moreover, the 3D models will be established and shown in the situation. In 2021, the live event and digital iterative design and development are the purpose of the project. At the end of 2021, we plan to finish the project and make live global streaming to the public.
 
 
 
 
-# Goal Models (Wenkang)
+# Goal Models (Zheng Tang)
 
 
 
